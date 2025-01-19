@@ -1,0 +1,93 @@
+body {
+    font-family: "Merriweather", sans-serif;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+    background-color: #d0450b;
+}
+
+.navbar-brand {
+    padding-top: 4.5rem;
+    padding-left: 4.5rem;
+    font-size: 2.5rem;
+    font-weight: 400;
+    color: #ffffff
+}
+
+.nav-item {
+    margin: 0 30px;
+    padding-top: 3.9rem;
+}
+
+.navbar-nav {
+    padding-right: 3.8rem;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    color: #ffffff;
+}
+
+.title {
+    display: flex;
+    background-color: #d0450b;
+    padding-left: 5.5rem;
+    padding-bottom: 4rem;
+}
+
+.title-text {
+    width: 80vh;
+}
+
+.disasters-img {
+    margin-left: 3rem;
+    width: 560px;
+}
+
+.big-heading {
+    font-weight: 900;
+    color: #ffffff;
+    width: 70vh;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 48rem;
+    justify-content: center;
+    alight-items: center;
+    margin-left: 22%;
+    margin-top: 5%;
+}
+
+.form-element {
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.form-label {
+    font-size: 1.1rem;
+}
+
+.dropdown {
+    height: 30px;
+    font-size: 1.1rem;
+}
+
+.submit {
+    background-color: #d0450b;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    height: 30px;
+}
+
+.separate {
+    visibility: hidden;
+}
+
+.response-break {
+    height: 10px;
+    color: black;
+}
